@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1852135.css",
+    "main.js": "/static/js/main.3fa8496d.js",
+    "static/media/CV ALEJANDRO PEDROSA 2022.pdf": "/static/media/CV ALEJANDRO PEDROSA 2022.ea909041f6b51665f39a.pdf",
+    "static/media/gifexpert.png": "/static/media/gifexpert.48a671b8df37602386dc.png",
+    "static/media/homeNC.PNG": "/static/media/homeNC.844c449fab24fafb4c26.PNG",
+    "static/media/heroesapp.png": "/static/media/heroesapp.b7262d71cc2405804a46.png",
+    "static/media/mejorpostor.png": "/static/media/mejorpostor.fcb6adeb996bcb54e1a4.png",
+    "static/media/journal.png": "/static/media/journal.690ae93c912f5b0ab403.png",
+    "static/media/ME2.jpeg": "/static/media/ME2.2ef425264fa65c966956.jpeg",
+    "static/media/ME.jpeg": "/static/media/ME.f0d01d49bcc4f97c2f67.jpeg",
+    "static/media/calendar.png": "/static/media/calendar.c761c910761801475790.png",
+    "index.html": "/index.html",
+    "main.b1852135.css.map": "/static/css/main.b1852135.css.map",
+    "main.3fa8496d.js.map": "/static/js/main.3fa8496d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1852135.css",
+    "static/js/main.3fa8496d.js"
+  ]
+}
