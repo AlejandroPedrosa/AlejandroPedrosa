@@ -18,7 +18,6 @@ const Header = () => {
           deleteSpeed={300}
           delaySpeed={1000}
         /></span></h1>
-        {/* <h5 className="text-light">Fullstack Developer(MERN)</h5> */}
         <CTA />
         <HeaderSocials />
         <div className='me'>
