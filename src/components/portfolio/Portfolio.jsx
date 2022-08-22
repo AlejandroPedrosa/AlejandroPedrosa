@@ -14,7 +14,7 @@ const Portfolio = () => {
       image: MP,
       title: "Mejor Postor",
       github: "https://github.com/No-Country/S1-07-T-FrontEnd",
-      demo: "https://sendpulse.com/blog/wp-content/uploads/2019/12/cover.jpg"
+      demo: "https://www.linkedin.com/posts/a-pedrosa_demoday-ugcPost-6923388269736914944-cfe2?utm_source=share&utm_medium=member_desktop"
     },
     {
       id: 2,

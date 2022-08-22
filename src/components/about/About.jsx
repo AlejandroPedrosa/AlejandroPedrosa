@@ -37,7 +37,7 @@ const About = () => {
             <article className='about__card'>
               <GiUsaFlag className='about__icon'/>
               <h5>Ingles</h5>
-              <small>Nivel B2</small>
+              <small>Nivel A2+</small>
             </article>
           </div>
           <p>
