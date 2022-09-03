@@ -119,7 +119,7 @@ const Experiencie = () => {
             <article className='experience__details'>
               <SiGithub className="experience__details-icon" />
               <div>
-                <h4>Git/Github</h4>
+                <h4>Git</h4>
                 <small className='text-light'>Intermedio +</small>
               </div>
             </article>
