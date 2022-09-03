@@ -8,7 +8,7 @@ src="https://img.shields.io/twitch/status/pinkypenk?logo=twitchsx&style=for-the-
 
 <p>I've been learning to code for a year and a half. I started with HTML, CSS and JS, but when I saw React I was amazed at the things I could do with this framework<p>
 - 🌍 I'm based in Córdoba, Córdoba, Argentina.<br>
-- 🖥️ See my portfolio at https://alejandro-pedrosa-portfolio.vercel.app<br>
+- 🖥️ See my portfolio at https://alejandropedrosaportfolio.vercel.app/<br>
 - ✉️ You can contact me at alejandro.pedrosa00@gmail.com<br>
 - 🧠 I'm interested in learning about cybersecurity and software development.<br>
 - 🤝 I'm open to collaborating on interesting projects.</p>
