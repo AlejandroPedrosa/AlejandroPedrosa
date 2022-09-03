@@ -1,5 +1,7 @@
 # Hi I'm **Alejandro Pedrosa**.
+
 ## Fullstack Developer (MERN) specialized in React.
+
 <a href="https://www.twitter.com/ale_penk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ale_penk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/AlejandroPedrosa" target="_blank" rel="noreferrer"><img
@@ -19,9 +21,10 @@ src="https://img.shields.io/twitch/status/pinkypenk?logo=twitchsx&style=for-the-
 </p>
 
 ### Socials
+
 <p align="left">
 <a href="https://www.github.com/AlejandroPedrosa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://alejandro-pedrosa-portfolio.vercel.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+  <a href="https://alejandropedrosaportfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/a-pedrosa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   
 ### Badges
